@@ -6,7 +6,8 @@ https://www.yuque.com/u32773500/fw56gb/gnclbvl62a8ofegh/edit
 <img width="640" height="480" alt="my_logistic_Newton" src="https://github.com/user-attachments/assets/242d06ea-65e0-4aad-8ced-a99c376f912b" />
 
 ### my_logistic_gradDesc
-<img width="1920" height="1080" alt="gradDesc" src="https://github.com/user-attachments/assets/3a5f75a8-6269-4a70-aece-0b4c7018c96c" />
+<img width="1060" height="947" alt="gradDesc" src="https://github.com/user-attachments/assets/f2661b00-0ca2-46ae-85bf-8faa7b49a8db" />
+
 
 ### 分析结果图
 1. 图片主要价值是验证你自己写的逻辑回归（梯度下降）是否和官方库（sklearn）的效果一致，如果两条线几乎重合，说明你的模型实现是正确的。
